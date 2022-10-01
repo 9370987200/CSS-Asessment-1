@@ -1,0 +1,29 @@
+h1{
+    color: red;
+}
+h3{
+    color: orange;
+    font-style: italic;
+}
+ol{
+    text-decoration: brown;
+}
+li{
+    color: brown;
+}
+li{
+    lighting-color: brown;
+}
+p{
+    color: rgb(121, 92, 15);
+}
+ul{
+    letter-spacing: 4px;
+}
+span{
+    background-color: yellow;
+}
+a{
+    background-color: yellow;
+    color: red;
+}
